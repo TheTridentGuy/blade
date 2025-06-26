@@ -1,3 +1,11 @@
+title: "blade"
+author: "TheTridentGuy"
+description: "Gravity knife inspired ESP32 devboard"
+### June 26:
+4h
+Been working on this all day, and now seems like a good time to journal.
+Somehow I fucked up and sent my USB port wiring to the shadow realm, so now it's a recovery operation, fuck easyeda.
+
 ### June 24-25:
 12h (~6h each day)
 
